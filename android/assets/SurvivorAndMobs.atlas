@@ -1,0 +1,293 @@
+
+SurvivorAndMobs.png
+size: 4096,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Goblin_Attack2
+  rotate: false
+  xy: 1804, 1712
+  size: 1200, 150
+  orig: 1200, 150
+  offset: 0, 0
+  index: -1
+Goblin_Attack3
+  rotate: false
+  xy: 2, 1762
+  size: 1800, 150
+  orig: 1800, 150
+  offset: 0, 0
+  index: -1
+Goblin_Bomb_sprite
+  rotate: false
+  xy: 2, 1914
+  size: 1900, 100
+  orig: 1900, 100
+  offset: 0, 0
+  index: -1
+Goblin_Death
+  rotate: false
+  xy: 1204, 836
+  size: 600, 150
+  orig: 600, 150
+  offset: 0, 0
+  index: -1
+Goblin_Idle
+  rotate: false
+  xy: 1902, 928
+  size: 600, 150
+  orig: 600, 150
+  offset: 0, 0
+  index: -1
+Goblin_Run
+  rotate: false
+  xy: 1654, 1560
+  size: 1200, 150
+  orig: 1200, 150
+  offset: 0, 0
+  index: -1
+Goblin_Take_Hit
+  rotate: false
+  xy: 1204, 684
+  size: 600, 150
+  orig: 600, 150
+  offset: 0, 0
+  index: -1
+Goblin_attack
+  rotate: false
+  xy: 2, 206
+  size: 1200, 150
+  orig: 1200, 150
+  offset: 0, 0
+  index: -1
+Mushroom_Attack
+  rotate: false
+  xy: 1904, 1864
+  size: 1200, 150
+  orig: 1200, 150
+  offset: 0, 0
+  index: -1
+Mushroom_Attack2
+  rotate: false
+  xy: 2, 814
+  size: 1200, 150
+  orig: 1200, 150
+  offset: 0, 0
+  index: -1
+Mushroom_Attack3
+  rotate: false
+  xy: 2, 1610
+  size: 1650, 150
+  orig: 1650, 150
+  offset: 0, 0
+  index: -1
+Mushroom_Death
+  rotate: false
+  xy: 1204, 228
+  size: 600, 150
+  orig: 600, 150
+  offset: 0, 0
+  index: -1
+Mushroom_Idle
+  rotate: false
+  xy: 1806, 472
+  size: 600, 150
+  orig: 600, 150
+  offset: 0, 0
+  index: -1
+Mushroom_Projectile_sprite
+  rotate: false
+  xy: 2, 2
+  size: 400, 50
+  orig: 400, 50
+  offset: 0, 0
+  index: -1
+Mushroom_Run
+  rotate: false
+  xy: 2, 510
+  size: 1200, 150
+  orig: 1200, 150
+  offset: 0, 0
+  index: -1
+Mushroom_Take_Hit
+  rotate: false
+  xy: 1806, 776
+  size: 600, 150
+  orig: 600, 150
+  offset: 0, 0
+  index: -1
+Skeleton_Attack1
+  rotate: false
+  xy: 1624, 1408
+  size: 1200, 150
+  orig: 1200, 150
+  offset: 0, 0
+  index: -1
+Skeleton_Attack2
+  rotate: false
+  xy: 2, 662
+  size: 1200, 150
+  orig: 1200, 150
+  offset: 0, 0
+  index: -1
+Skeleton_Attack3
+  rotate: false
+  xy: 3006, 1712
+  size: 900, 150
+  orig: 900, 150
+  offset: 0, 0
+  index: -1
+Skeleton_Death
+  rotate: false
+  xy: 1806, 168
+  size: 600, 150
+  orig: 600, 150
+  offset: 0, 0
+  index: -1
+Skeleton_Idle
+  rotate: false
+  xy: 1204, 380
+  size: 600, 150
+  orig: 600, 150
+  offset: 0, 0
+  index: -1
+Skeleton_Shield
+  rotate: false
+  xy: 1300, 988
+  size: 600, 150
+  orig: 600, 150
+  offset: 0, 0
+  index: -1
+Skeleton_Sword_sprite
+  rotate: false
+  xy: 1300, 1140
+  size: 736, 102
+  orig: 736, 102
+  offset: 0, 0
+  index: -1
+Skeleton_Take_Hit
+  rotate: false
+  xy: 1204, 76
+  size: 600, 150
+  orig: 600, 150
+  offset: 0, 0
+  index: -1
+Skeleton_Walk
+  rotate: false
+  xy: 1806, 320
+  size: 600, 150
+  orig: 600, 150
+  offset: 0, 0
+  index: -1
+fantasy_warrior_Attack1
+  rotate: false
+  xy: 2826, 1384
+  size: 1134, 162
+  orig: 1134, 162
+  offset: 0, 0
+  index: -1
+fantasy_warrior_Attack2
+  rotate: false
+  xy: 1300, 1244
+  size: 1134, 162
+  orig: 1134, 162
+  offset: 0, 0
+  index: -1
+fantasy_warrior_Attack3
+  rotate: false
+  xy: 2, 1282
+  size: 1296, 162
+  orig: 1296, 162
+  offset: 0, 0
+  index: -1
+fantasy_warrior_Death
+  rotate: false
+  xy: 2856, 1548
+  size: 1134, 162
+  orig: 1134, 162
+  offset: 0, 0
+  index: -1
+fantasy_warrior_Fall
+  rotate: false
+  xy: 2822, 1220
+  size: 486, 162
+  orig: 486, 162
+  offset: 0, 0
+  index: -1
+fantasy_warrior_Idle
+  rotate: false
+  xy: 2, 1446
+  size: 1620, 162
+  orig: 1620, 162
+  offset: 0, 0
+  index: -1
+fantasy_warrior_Jump
+  rotate: false
+  xy: 2038, 1080
+  size: 486, 162
+  orig: 486, 162
+  offset: 0, 0
+  index: -1
+fantasy_warrior_Run
+  rotate: false
+  xy: 2, 1118
+  size: 1296, 162
+  orig: 1296, 162
+  offset: 0, 0
+  index: -1
+fantasy_warrior_Take hit
+  rotate: false
+  xy: 1806, 4
+  size: 486, 162
+  orig: 486, 162
+  offset: 0, 0
+  index: -1
+fly_eye_Attack
+  rotate: false
+  xy: 2, 54
+  size: 1200, 150
+  orig: 1200, 150
+  offset: 0, 0
+  index: -1
+fly_eye_Attack2
+  rotate: false
+  xy: 2, 358
+  size: 1200, 150
+  orig: 1200, 150
+  offset: 0, 0
+  index: -1
+fly_eye_Attack3
+  rotate: false
+  xy: 3106, 1864
+  size: 900, 150
+  orig: 900, 150
+  offset: 0, 0
+  index: -1
+fly_eye_Death
+  rotate: false
+  xy: 1806, 624
+  size: 600, 150
+  orig: 600, 150
+  offset: 0, 0
+  index: -1
+fly_eye_Flight
+  rotate: false
+  xy: 2, 966
+  size: 1200, 150
+  orig: 1200, 150
+  offset: 0, 0
+  index: -1
+fly_eye_Take_Hit
+  rotate: false
+  xy: 1204, 532
+  size: 600, 150
+  orig: 600, 150
+  offset: 0, 0
+  index: -1
+fly_eye_projectile_sprite
+  rotate: false
+  xy: 2436, 1358
+  size: 384, 48
+  orig: 384, 48
+  offset: 0, 0
+  index: -1

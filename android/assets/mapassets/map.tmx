@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="30" height="15" tilewidth="16" tileheight="16" infinite="0" nextlayerid="10" nextobjectid="16">
+ <tileset firstgid="1" source="background_0.tsx"/>
+ <tileset firstgid="199" source="tileset.tsx"/>
+ <tileset firstgid="397" source="background_1.tsx"/>
+ <tileset firstgid="595" source="background_2.tsx"/>
+ <objectgroup id="5" name="ground">
+  <object id="4" x="0" y="208" width="480.5" height="32.5"/>
+  <object id="10" x="481" y="-22" width="33.5" height="261"/>
+  <object id="11" x="-27" y="-31.5" width="506.5" height="30.5"/>
+  <object id="12" x="-27.5" y="-0.5" width="26" height="240.5"/>
+ </objectgroup>
+ <layer id="8" name="bg3" width="30" height="15" locked="1">
+  <data encoding="base64" compression="zlib">
+   eJzl09dbDmAcx+HXJiM7JNKQLXsLpSUjm0JZlcwkIyMkZUvInklk+wPdJ12XU8/Be+Lgvr5nn+t38DzJkUgkheQobze604Oe9KI3fehLP2LozwAGMohYBjOEoQGdYQxnBCOJYxSjGUM8Y0lgHONJZAJJf93/r51UJpLGJCYzhalMYzozmEk6s5jNHOYyj/kBnQUsZBGLWcJSlrGcDFawklVkksVqsskhN6DTdW+0N9rvuGvzyGcNBaxlHevZQCEb2cRmtrCVbWxnBzsDOkUUs4vd7KGEUvayj/0c4CBllFPBISo5HNA5wlGOcZwTVHGSak5Rw2nOcJZz1HKeC1wM6Fyijstc4Sr1XKOB6zTSxA1ucovb3OEu9wI692nmAS085BGPaeUJT3nGc17wkle85g1vAzrveE8bH2jnIx184jOdfOEr3/jOD37yi98Bnf/t//4BZ8SBrA==
+  </data>
+ </layer>
+ <layer id="9" name="bg2" width="30" height="15" locked="1">
+  <data encoding="base64" compression="zlib">
+   eJztzMVWQlEAQNEL4sgCA7GwkFJRCbsFDBSV//8R2/0Nb8o7a+3pCSEuLm6Y+0iE8MkX3/zwyx8hGUKCJCOkGGWMcSaYZIo0GaaZYZY5ssyTY4FFlliO8FghzyprrLPBJgW2KFKiTIUq2+ywSy3CY499DqjToEmLQ4445oRTzjjngkuuuI7wuOGWO9p06HLPA4880eOZF/q88sY7gwiPYesf7ZgdYw==
+  </data>
+ </layer>
+ <layer id="7" name="bg1" width="30" height="15" locked="1">
+  <data encoding="base64" compression="zlib">
+   eJztzVkzQnEAxuF/55CylKXF9/9GpAjJ1oJIhKx5btw7TTPdnN/Mc/u+IaSlpaUlay8KYZ8aB9RpcMgRTY454ZQWZ7Q554LLKPnOFdd06NKjzw233DHgngeGPDLiiWfGM+y88MobE9754JMvvvlhSohDyBARs8Qy2Tj5zgo58qyyxjobFCiyyRbb7FCiTIUquzPszOv3r//uLapfpQpPAQ==
+  </data>
+ </layer>
+ <layer id="6" name="bg0" width="30" height="15" locked="1">
+  <data encoding="base64" compression="zlib">
+   eJztzkdPFVEYgOE7K7GAbK0UXaiggEqJCnZFwSBFLKAUBWMB7AKCBfyDoCh7mrBiI4K64FnclbncGZyd8SRPvuRM5v1OIvH//MtnnE98ZoIvfGUyRnMsQneaGWaZ4xvzLMTYOxWhu8QPllnhJ7/4HWPv9wjdjCCR2MgmNrOFTLKCv9+7IQjvbjd3sJNd7CaH3Bh7twXh3ULzIIcoopgSDqfYm+cunz3sTfOugiC8W2We5BSnOcNZzqXoHnF3lFLK0uytDMK7V816GmikiWs0J7/vM/dzgPNc4CLVXOIyNdRyhUX/1AXh3U7zLvfoopv7bCWbYxznBNe5wU1u0UIrt7lDG+10BGt3y6ngBS95xWv6GWCQ3j884CGPeExP8r6PJzzlGc/X2Q3zhiGGecs73vOBEUb5GLG1CsGaYTA=
+  </data>
+ </layer>
+</map>
